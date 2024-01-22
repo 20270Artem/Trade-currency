@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.trade-container {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+
+.flex{
+
+
+    margin-top: 10px;
+    display: flex;
+
+}
+
+.margin10-10{
+
+margin: 0 10px;
+
+}
